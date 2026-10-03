@@ -1,2 +1,4 @@
-# Satellite-Communication-Route-Finder
-# A PocketQube satellite may communicate with other satellites and ground stations through multiple communication links. As the network grows, determining whether a path exists between a source and destination becomes difficult. The proposed Satellite Communication Route Finder represents satellites and ground stations as vertices and communication links as edges of a graph. An adjacency list stores the connections, while BFS and DFS are used to discover communication routes. This provides an organized and efficient way to model and explore the satellite communication network.
+### Satellite-Communication-Route-Finder
+<small>
+A PocketQube satellite may communicate with other satellites and ground stations through multiple communication links. As the network grows, determining whether a path exists between a source and destination becomes difficult. The proposed Satellite Communication Route Finder represents satellites and ground stations as vertices and communication links as edges of a graph. An adjacency list stores the connections, while BFS and DFS are used to discover communication routes. This provides an organized and efficient way to model and explore the satellite communication network.
+</small>
